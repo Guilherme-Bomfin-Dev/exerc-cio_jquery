@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color:blueviolet;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.container form {
+        display: flex;
+        max-width: 840px;
+        width: 100%;
+}
+
+.container form button {
+    margin-left: 20px;
+}
+
+.container form h3{
+    margin-right: 20px;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
